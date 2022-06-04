@@ -1,0 +1,5 @@
+3
+Mean p 1
+Green p 2
+Lean p 3
+20
